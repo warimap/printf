@@ -283,7 +283,7 @@ Function That Returns The Amount Of Indetifiers.
 # ANSWERS
 
 The following link contains answers given for each task and  are explained in depth.
-<a href="https://docs.google.com/document/d/1CrvES5I22vKO7x09gkIzfNIQE9TT7MdatllkqM2Y7PI    /edit?usp=sharing">DOCUMENT CONTAINING EXPLAINED ANSWERS</a>
+<a href="https://docs.google.com/document/d/1CrvES5I22vKO7x09gkIzfNIQE9TT7MdatllkqM2Y7PI/edit?usp=sharing">DOCUMENT CONTAINING EXPLAINED ANSWERS</a>
 
 
 
